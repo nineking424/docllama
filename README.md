@@ -63,8 +63,8 @@ python groq_chat.py  # 파일 경로를 입력받는 대화형 모드
 
 Groq API에서 제공하는 다양한 모델을 사용할 수 있습니다:
 
-- `llama-3.1-8b-instant`: 빠른 응답속도, 가벼운 분석에 적합
-- `meta-llama/llama-4-scout-17b-16e-instruct`: 더 상세하고 정확한 분석 결과 (기본값)
+- `llama-3.1-8b-instant`: 빠른 응답속도, 가벼운 분석에 적합 (기본값)
+- `meta-llama/llama-4-scout-17b-16e-instruct`: 더 상세하고 정확한 분석 결과
 - 그 외 Groq 지원 모델 ([Groq 가격 정책](https://groq.com/pricing/) 참조)
 
 ## 생성되는 문서 구조
